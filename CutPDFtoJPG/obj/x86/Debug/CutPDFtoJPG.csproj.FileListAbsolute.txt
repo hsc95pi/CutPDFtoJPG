@@ -1,0 +1,17 @@
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\bin\Debug\CutPDFtoJPG.exe
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\bin\Debug\CutPDFtoJPG.pdb
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\bin\Debug\Interop.AcroPDFLib.dll
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\CutPDFtoJPG.csproj.ResolveComReference.cache
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\SharpPhoto.Form1.resources
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\CutPDFtoJPG.Properties.Resources.resources
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\CutPDFtoJPG.csproj.GenerateResource.Cache
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\CutPDFtoJPG.exe
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\SharpPhoto\obj\x86\Debug\CutPDFtoJPG.pdb
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\CutPDFtoJPG\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\CutPDFtoJPG\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\CutPDFtoJPG\obj\x86\Debug\CutPDFtoJPG.csproj.ResolveComReference.cache
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\CutPDFtoJPG\obj\x86\Debug\CutPDFtoJPG.exe
+D:\외장하드\hdd01\world\업무\Work\SourceTest\SharpPhoto\CutPDFtoJPG\obj\x86\Debug\CutPDFtoJPG.pdb
